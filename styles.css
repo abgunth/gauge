@@ -1,0 +1,32 @@
+#target_text {
+    display:table-cell;
+    text-align:center;
+    vertical-align:middle;
+    text-anchor:middle;
+}
+
+#div_target_text {
+margin-left: -50px;
+}
+
+.gaugeLabel {
+    float: left;
+    right:0px;
+    left:30px;
+    top:-10px;
+}
+.mainFrameGauge {
+    background-color: white;
+    top:-20px;
+    position: relative;
+}
+.mainFrameGauge >div> p {
+    padding: 12px 0px 0px 92px;
+    font-weight: bold;
+
+}
+.topLevelOfGauge {
+    width: 340px;
+    height: 300px;
+    margin: 15px;
+}
