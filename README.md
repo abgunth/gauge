@@ -1,7 +1,3 @@
-# Gauge
-
-__Description:__ Animated gauge with a primary and a secondary needle.
-
 ## DEMO
 
 ![Not available](https://github.com/abgunth/gauge/blob/master/demo/v1_clean.gif)
