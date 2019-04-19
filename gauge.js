@@ -8,7 +8,7 @@ export default class GaugeBox extends React.Component{
 		let width = 600;
 		return (
 			<div className='wrapper' style={{width:width, height:width/2}}>
-				<Gauge fill='#000' value={78} target={90} min={0} max={100} width={width} height={width/2}/>
+				<Gauge fill='#000' value={54} target={80} min={0} max={100} width={width} height={width/2}/>
 			</div>
 		);
 	};
